@@ -1,0 +1,20 @@
+
+
+
+
+
+Dataloader
+
+    X 
+     input : df, current time point 
+     
+     output : feature vectors
+    
+    Y (labelling)
+     input : df_tar, current time point, past duration
+     
+     output : weight vector
+
+Labelling prior functions
+    past duration selection
+        
